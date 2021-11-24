@@ -12,7 +12,7 @@
 - JQuery
 
 ## Live Demo
-[Live-demo](https://freeeze.pages.dev/)
+[Live-demo](https://foryoumycountry.pages.dev/)
 
 ### Prerequisites
   - #### Knowledge of these technologies
